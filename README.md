@@ -85,9 +85,6 @@ private function sampleQuery3():void {
 
 ## Examples
 
-Examples of using asSQL
-
-
 ### MySqlService Example
 
 This example is using MySqlService and DataGrid. The data grid's columns property and dataProvider property are bound to the MySqlService lastResult (ArrayCollection of Rows) and lastResultSet (The actual ResultSet).
