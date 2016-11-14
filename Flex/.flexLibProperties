@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" version="1">
+  <includeClasses>
+    <classEntry path="com.maclema.mysql.MySqlService"/>
+    <classEntry path="com.maclema.mysql.mxml.MySqlService"/>
+    <classEntry path="com.maclema.util.ByteFormatter"/>
+    <classEntry path="com.maclema.util.ResultsUtil"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>

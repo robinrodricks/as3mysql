@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" version="1">
+  <includeClasses>
+    <classEntry path="com.maclema.util.ByteFormatter"/>
+    <classEntry path="com.maclema.mysql.Statement"/>
+    <classEntry path="com.maclema.mysql.ResultSet"/>
+    <classEntry path="com.maclema.mysql.SqlParam"/>
+    <classEntry path="com.maclema.mysql.MySqlToken"/>
+    <classEntry path="com.maclema.mysql.Field"/>
+    <classEntry path="com.maclema.logging.Logger"/>
+    <classEntry path="com.maclema.mysql.OutputPacket"/>
+    <classEntry path="com.maclema.mysql.Buffer"/>
+    <classEntry path="com.adobe.utils.IntUtil"/>
+    <classEntry path="com.maclema.mysql.MySqlResponse"/>
+    <classEntry path="com.maclema.mysql.ServerInformation"/>
+    <classEntry path="com.maclema.mysql.StreamingQueryHandler"/>
+    <classEntry path="com.maclema.mysql.ProxiedBuffer"/>
+    <classEntry path="com.maclema.mysql.HandshakeHandler"/>
+    <classEntry path="com.maclema.mysql.QueryHandler"/>
+    <classEntry path="com.adobe.crypto.SHA1"/>
+    <classEntry path="com.maclema.mysql.Connection"/>
+    <classEntry path="com.maclema.mysql.events.MySqlEvent"/>
+    <classEntry path="com.maclema.mysql.ProxiedPacket"/>
+    <classEntry path="com.maclema.mysql.ProxiedByteArray"/>
+    <classEntry path="com.maclema.mysql.DataManager"/>
+    <classEntry path="com.maclema.mysql.MySqlOutputParams"/>
+    <classEntry path="com.maclema.mysql.CommandHandler"/>
+    <classEntry path="com.maclema.mysql.DataHandler"/>
+    <classEntry path="com.maclema.mysql.Mysql"/>
+    <classEntry path="com.maclema.mysql.BinaryQuery"/>
+    <classEntry path="com.maclema.mysql.CharSets"/>
+    <classEntry path="com.maclema.mysql.Util"/>
+    <classEntry path="com.maclema.mysql.events.MySqlErrorEvent"/>
+    <classEntry path="com.maclema.mysql.ErrorHandler"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
